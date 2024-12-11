@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Bruno.
+- 👀 I’m interested in 3D printing and coding.
+- 🌱 I’m currently trying to integrate my 3D printing with some java or python to make a cool project.
